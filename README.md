@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @snowball-5871
+- 👀 I’m interested in data analysis.
+- 🌱 I’m currently learning Python, R, and SQL.
+- 💞️ I’m looking to collaborate on entry-level projects.
+- 📫 How to reach me is best through direct message here.
